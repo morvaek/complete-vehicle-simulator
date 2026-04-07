@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.mex*
+slprj/
+*.slxc
+codegen/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# JetBrains
+.idea/
